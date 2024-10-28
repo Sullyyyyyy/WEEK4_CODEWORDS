@@ -1,0 +1,2 @@
+Week 4:
+We started our sko idea's and started to finish up our first assignment, the paper prototype, I chose an idea similar to poker chips on  a table, and clicking the chips would open up the page showing all the reflections and work we completed that week, it was just rough sketches and ideas to brainstorm during class. We also fiddled around with cursor effects, experimenting with different types of interactive code, it was quite an intresting class as it provided a lot of important coding and questions. 
